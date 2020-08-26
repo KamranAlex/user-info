@@ -1,5 +1,6 @@
-var user = [
+var fakeUser = [
   {
+    id: 0,
     gender: "female",
     name: "Miss Cassandre Menard",
     country: "France",
@@ -15,6 +16,7 @@ var user = [
     },
   },
   {
+    id: 1,
     gender: "male",
     name: "Mr Johan Arnaud",
     country: "France",
@@ -30,6 +32,7 @@ var user = [
     },
   },
   {
+    id: 2,
     gender: "female",
     name: "Miss Vanesa Soto",
     country: "Spain",
@@ -45,6 +48,7 @@ var user = [
     },
   },
   {
+    id: 3,
     gender: "male",
     name: "Mr Mathias Larsen",
     country: "Denmark",
@@ -60,6 +64,7 @@ var user = [
     },
   },
   {
+    id: 4,
     gender: "female",
     name: "Ms Maria Pedersen",
     country: "Denmark",
@@ -75,6 +80,7 @@ var user = [
     },
   },
   {
+    id: 5,
     gender: "male",
     name: "Mr Burkhardt Köllner",
     country: "Germany",
@@ -90,6 +96,7 @@ var user = [
     },
   },
   {
+    id: 6,
     gender: "female",
     name: "Ms Angela Frazier",
     country: "United Kingdom",
@@ -105,6 +112,7 @@ var user = [
     },
   },
   {
+    id: 7,
     gender: "male",
     name: "Mr Elijah Wood",
     country: "New Zealand",
@@ -120,6 +128,7 @@ var user = [
     },
   },
   {
+    id: 8,
     gender: "female",
     name: "Mrs Veera Salmi",
     country: "Finland",
@@ -136,6 +145,7 @@ var user = [
   },
 
   {
+    id: 9,
     gender: "male",
     name: "Mr Roope Heikkila",
     country: "Finland",
@@ -151,6 +161,7 @@ var user = [
     },
   },
   {
+    id: 10,
     gender: "female",
     name: "Miss Alyssia Gerard",
     country: "France",
@@ -166,6 +177,7 @@ var user = [
     },
   },
   {
+    id: 11,
     gender: "male",
     name: "Mr Marcus Møller",
     country: "Denmark",
@@ -181,6 +193,7 @@ var user = [
     },
   },
   {
+    id: 12,
     gender: "female",
     name: "Mrs Montserrat Benitez",
     country: "Spain",
@@ -196,6 +209,7 @@ var user = [
     },
   },
   {
+    id: 13,
     gender: "female",
     name: "Ms Millie Kumar",
     country: "New Zealand",
@@ -211,6 +225,7 @@ var user = [
     },
   },
   {
+    id: 14,
     gender: "female",
     name: "Miss Raphaela Guhl",
     country: "Germany",
@@ -226,4 +241,4 @@ var user = [
     },
   },
 ];
-export default user;
+export default fakeUser;

@@ -1,0 +1,8 @@
+.body-container {
+  display: flex;
+}
+.people {
+  width: 70%;
+  margin-left: 80px;
+  margin-right: 8px;
+}

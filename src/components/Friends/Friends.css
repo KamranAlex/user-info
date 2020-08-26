@@ -1,0 +1,16 @@
+.my-friends {
+  text-align: center;
+  padding-left: 5px;
+}
+.my-friends h1 {
+  margin-left: 5px;
+}
+.income {
+  color: tomato;
+  font-size: 18px;
+  font-weight: 800;
+}
+.total-friends {
+  color: rgba(38, 131, 19, 0.829);
+  font-weight: 900;
+}

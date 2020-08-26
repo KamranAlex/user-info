@@ -1,13 +1,13 @@
 import React from "react";
 import "./App.css";
-import user from "./fakeData/user";
+import Header from "./components/Header/Header";
+import Body from "./components/Body/Body";
 
 function App() {
-  const users = user;
-  console.log(users);
   return (
-    <div className='App'>
-      <header className='App-header'></header>
+    <div>
+      <Header></Header>
+      <Body></Body>
     </div>
   );
 }

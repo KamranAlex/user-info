@@ -1,0 +1,12 @@
+.header {
+  text-align: center;
+  height: 120px;
+  background-color: black;
+  padding: 1px;
+}
+.header h1 {
+  font-size: 40px;
+  font-weight: 800;
+  font-family: inherit;
+  color: antiquewhite;
+}
